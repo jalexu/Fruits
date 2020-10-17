@@ -41,7 +41,7 @@ struct SettingsView: View {
                     label: SettingsLabelView(labelText: "Personalización", labelImage: "paintbrush")
                     ){
                         Divider().padding(.vertical, 4)
-                        Text("Si quieres regresar a la pantalla de inicio de la aplicación habilita este botón.")
+                        Text("Si quieres regresar a la pantalla de inicio de la aplicación habilita este botón y desliza la pantalla hacia abajo.")
                             .padding(.vertical, 8)
                             .frame(minHeight: 60)
                             .layoutPriority(1)

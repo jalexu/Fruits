@@ -28,7 +28,7 @@ let fruitsData: [Fruit] = [
         nutrition: ["240 kJ (57 kcal)","9.96 g","0.33 g","0.74 g","A, B1, B2, B3, B5, B6, B9, C, E, K","Calcium, Iron, Magnasium, Manganese, Phosphorus, Sodium, Zinc"]
     ),
     Fruit(
-        title: "Strawberry",
+        title: "Fresa",
         headline: "La fresa es un fruto de color rojo brillante, suculento y fragante que se obtiene de la planta que recibe su mismo nombre.",
         image: "strawberry",
         gradientColors: [Color("ColorStrawberryLight"), Color("ColorStrawberryDark")],
@@ -264,7 +264,7 @@ let fruitsData: [Fruit] = [
         nutrition: ["138 kJ (33 kcal)","7.31 g","0.10 g","0.8 g","B1, B2, B3, B5, B6, B9, C, E","Calcium, Iron, Magnasium, Manganese, Phosphorus, Potassium, Zinc"]
     ),
     Fruit(
-        title: "Apple",
+        title: "Manzana",
         headline: "Las manzanas son una de las frutas más populares y excepcionalmente saludables por una buena razón.",
         image: "apple",
         gradientColors: [Color("ColorAppleLight"), Color("ColorAppleDark")],
